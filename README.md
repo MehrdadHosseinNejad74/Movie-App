@@ -2,13 +2,13 @@
 
 A beautiful movie app that consists of two screens (route).
 * Home Screen
-    * New Movies: Pageview with movie covers that introduce movies
-    * Trending: List of Trading Movies (vertical list)
-    * ButtomSheet: beatiful bottm sheet developed using backdrop filter
+    * New Movies: Pageview with covers
+    * Trending: List of trading movies (vertical list)
+    * ButtomSheet: beautiful bottom sheet developed using backdrop filter
 
 * Detail Screen
-     * Cover: movie cover image with dark gradient
-     * Movie info: year, language, duration, storyline , ...
+     * Cover: cover image with dark gradient
+     * Movie info: year, language, duration, storyline, ...
      * Cast: list of actors
      * ButtomSheet: purchase bottomsheet
 
