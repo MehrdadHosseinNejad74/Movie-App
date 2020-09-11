@@ -46,8 +46,8 @@ class PurchaseBottomSheet extends StatelessWidget {
             flex: 2,
             child: Container(
               decoration: BoxDecoration(
-                borderRadius: BorderRadius.only(topLeft: Radius.circular(40)),
-                  color: Color(0xff9A9A9A).withOpacity(0.2),),
+                borderRadius: BorderRadius.only(topLeft: Radius.circular(20)),
+                  color: Color(0xff9A9A9A).withOpacity(0.3),),
               child: Center(
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,

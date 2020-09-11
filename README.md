@@ -13,12 +13,12 @@ A beautiful movie app that consists of two screens (route).
      * ButtomSheet: purchase bottomsheet
 
 ## App Design
-![App Design](https://github.com/MehrdadHosseinNejad74/Mustang-Dashboard/blob/master/assets/concept/concept.png)
+![App Design](https://github.com/MehrdadHosseinNejad74/Movie-App/blob/master/assets/images/concept/concept.png)
 
 > The observed lag is due to the fps of the gif!
 
 
-![App Design_Gif](https://github.com/MehrdadHosseinNejad74/Mustang-Dashboard/blob/master/assets/concept/concept.gif)
+![App Design_Gif](https://github.com/MehrdadHosseinNejad74/Movie-App/blob/master/assets/images/concept/concept.gif)
 
 
 ## Packages
